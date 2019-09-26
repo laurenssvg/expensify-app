@@ -4,6 +4,8 @@
 // Prop manipulation
 // Abstract state
 
+// DIt is een test comment
+
 import React from 'react';
 import ReactDOM from 'react-dom';
 
