@@ -209,7 +209,7 @@ const user = {
 };
 
 console.log({
-    age: 26,
+    age: 31,
     ...user,
     location: 'The Hague'
 });
