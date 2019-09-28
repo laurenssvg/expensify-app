@@ -12,9 +12,6 @@ import './styles/styles.scss';
 
 const store = configureStore();
 
-store.dispatch(addExpense({ description: 'Telefoonabonnement', amount: 45 }));
-store.dispatch(addExpense({ description: 'Boodschappen', amount: 180}));
-store.dispatch(addExpense({ description: 'Huur', amount: 150}));
 store.dispatch(addExpense({ description: 'iPad', amount: 500}));
 store.dispatch(addExpense({ description: 'Huur auto', amount: 250}));
 store.dispatch(addExpense({ description: 'Horloge', amount: 300}));
